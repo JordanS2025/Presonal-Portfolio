@@ -287,3 +287,8 @@ footer {
 .goals-text {
     margin-bottom: 1.5rem;
 }
+
+.project-card img {
+  width: 300px; /* Set the desired width */
+  height: auto; /* Maintain aspect ratio */
+}
